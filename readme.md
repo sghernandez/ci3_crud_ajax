@@ -1,7 +1,5 @@
 # Crud Ajax codeIgniter 3
 
-Demo
-
 [Demo](http://megalibros.net/hernandezsandro20210516/)
 
 
